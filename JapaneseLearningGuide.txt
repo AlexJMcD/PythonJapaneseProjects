@@ -1,0 +1,9 @@
+In this repository is a series of programs I have made and am currently developing
+to assist me in my Japanese studies.
+
+These programs range in complexity and function, from basic single word vocab testing
+to larger randomly generated vocab tests and practice sentence creation.
+
+The lenghtiest part of this creation process is the cretion of python vocab dictionaries
+as this requieres extensive writing and use of correct Japanese script. As such, these
+vocab dictionaries will be updated at unspecified intervals.
