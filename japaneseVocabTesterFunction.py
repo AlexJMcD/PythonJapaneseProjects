@@ -1,7 +1,4 @@
-
 import random
-verbVocab={"aru": "there is/to have/there exists (non-sentient)", "iru": "there is/to have/there exists (sentient)"}
-dictionary={"verbs": {"aru": "there is/to have/there exists (non-sentient)", "iru": "there is/to have/there exists (sentient)"}, 'other': {'hello': 'yes'}}
 from japaneseVerbVocab import verbs2
 def vocabTest(x):
     rightAnswers=0
@@ -75,13 +72,3 @@ def makeASentence(x):
 
 
 vocabTest(5)
-
-
-
-
-
-
-
-
-
-
